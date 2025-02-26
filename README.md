@@ -13,7 +13,7 @@ You will also need install third party packages from [npm registry](https://www.
 ## Installation
 
 ```
->> git clone https://github.com/Nazar-Pichak/SocialEditor.git
->> cd SocialEditor
->> npm install
+git clone https://github.com/Nazar-Pichak/SocialEditor.git
+cd SocialEditor
+npm install
 ```
